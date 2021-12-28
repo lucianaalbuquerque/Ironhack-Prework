@@ -4,4 +4,8 @@ Favorite Color: Blue
 
 Name: Marcus Albuquerque
 Age: 60
-Favorite Color: Red
+Favorite Color: Green
+
+Name: Marcia Pinheiro
+Age: 54
+Favorite Color: Yellow
